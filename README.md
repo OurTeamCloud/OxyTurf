@@ -10,5 +10,9 @@ Open code terminal and enter the following codes:<br><br>
 >git status (git pull if not clean) <br>
 >git push origin main<br>
 
+<b><h3>PLEASE USE THE STAGING BRANCH FIRST</h3></b><br>
+
+Double check everything before merging<br>
+If you think staging branch is okay to merge, then merge it to <b>master</b> branch
 
 
