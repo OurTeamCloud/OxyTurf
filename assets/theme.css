@@ -4207,7 +4207,8 @@ svg.icon:not(.icon--full-color) circle,svg.icon:not(.icon--full-color) ellipse,s
   right:0;
   z-index:6;
   background:none;
-  background:linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%,transparent)
+  background:linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%,transparent);
+  background-color: red;
 }
 
 .header-wrapper--overlay .site-header:not(.site-header--stuck){
